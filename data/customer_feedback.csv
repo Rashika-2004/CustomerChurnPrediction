@@ -1,0 +1,239 @@
+CustomerId,Issue_Type,Feedback_Text,Issue Level
+15634602,UPI,UPI payment failed but money debited,High
+15634602,ATM,ATM machine not working nearby,Medium
+15634602,Charges,Unexpected SMS charges deducted,Medium
+15619304,Service,Long queue and slow service in branch,Medium
+15701354,App,Mobile app not opening after update,High
+15737888,Transactions,Amount debited twice,High
+15574012,Support,Customer care not responding in Tamil,High
+15592531,Loan,Loan status not updated,Medium
+15634602,Notifications,OTP not received,High
+15647311,Internet Banking,Net banking very slow,Medium
+15647311,Service,Staff not responding properly,Medium
+15592531,Charges,Hidden charges deducted,High
+15792365,App,App crashing frequently,High
+15592389,Transactions,Transaction failed multiple times,High
+15737888,ATM,ATM cash not available often,Medium
+15737888,Support,No proper response from support,High
+15574012,App,App login issue frequently,High
+15574012,Transactions,Payment stuck for long time,Medium
+15574012,Notifications,SMS alert delayed,Low
+15619304,Loan,Loan approval taking too long,Medium
+15619304,UPI,UPI transaction pending for long,High
+15701354,Internet Banking,Page loading very slow,Medium
+15592531,Service,Branch staff behavior not good,Low
+15701354,App,App update causing issues,Medium
+15615797,Charges,ATM withdrawal charges high,Medium
+15647725,Service,Delay in account service,Medium
+15689341,App,Frequent logout issue,Medium
+15813113,Transactions,Refund delayed,Medium
+15720559,Support,Call waiting time too long,Medium
+15743411,Loan,Incorrect loan details shown,High
+15712551,Notifications,Email alerts not received,Low
+15597914,Internet Banking,Session timeout too fast,Low
+15601594,UPI,QR payment not working,High
+15783615,App,App UI confusing,Low
+15609623,ATM,ATM card not accepted sometimes,Medium
+15724863,Charges,Extra charges applied wrongly,High
+15737452,App,Slow response in app,Medium
+15672594,Transactions,Double debit issue,High
+15704442,Support,Issue not resolved properly,High
+15776233,Loan,Loan EMI details mismatch,High
+15704442,UPI,UPI limit too low,Low
+15611767,Internet Banking,Login error frequently,Medium
+15647008,Service,Waiting time too long in branch,Medium
+15605059,App,App hangs during transaction,High
+15704442,Charges,Unclear bank charges,Medium
+15603565,Support,No follow-up from bank,High
+15686835,App,OTP delay issue in app,High
+15592773,Transactions,Transaction history not updated,Medium
+15810418,Notifications,No notification for debit,High
+15612525,Loan,Loan closure process delayed,Medium
+15813659,UPI,UPI payment stuck for long time,High
+15708534,ATM,ATM card stuck inside machine,High
+15578799,Charges,Annual maintenance charges too high,Medium
+15794142,Service,Staff not explaining clearly,Medium
+15745083,App,App login taking too long,Medium
+15699325,Transactions,Money debited but not credited to receiver,High
+15686242,Support,Language issue in customer care,High
+15704442,Loan,Loan interest details not clear,Medium
+15585362,Notifications,Delayed OTP for login,High
+15668248,Internet Banking,Frequent login errors,Medium
+15722246,Service,Branch staff ignoring customers,Medium
+15694376,Charges,Extra service charges applied,High
+15596761,App,App freezing during payment,High
+15743490,Transactions,Transaction timeout issue,Medium
+15799966,ATM,ATM machine out of cash frequently,Medium
+15624820,Support,No update on complaint status,High
+15704442,App,App slow during peak hours,Medium
+15783019,Transactions,Refund not processed,High
+15654733,Notifications,No SMS for credit,Medium
+15803538,Loan,Loan approval delayed,Medium
+15710087,UPI,UPI server down frequently,High
+15670374,Internet Banking,Session expires too fast,Low
+15671591,Service,Too much waiting time,Medium
+15686099,App,App crashing after login,High
+15680303,Charges,Hidden ATM fees,Medium
+15691785,Service,Delay in updating passbook,Low
+15796910,App,App not syncing properly,Medium
+15641175,Transactions,Duplicate transaction recorded,High
+15767474,Support,Support team disconnecting calls,High
+15776780,Loan,Incorrect EMI charged,High
+15647385,Notifications,No email updates,Low
+15712403,Internet Banking,Website very slow,Medium
+15677310,UPI,QR scan not working,Medium
+15712403,App,App not loading dashboard,High
+15701439,ATM,ATM not dispensing cash properly,High
+15578865,Charges,Wrong penalty charges,High
+15596870,App,App not showing balance correctly,High
+15793455,Transactions,Transaction pending for long,Medium
+15623630,Notifications,No alert for debit transaction,High
+15583073,Loan,Loan closure delay,Medium
+15588614,UPI,UPI daily limit issue,Low
+15746708,Internet Banking,Login page error,Medium
+15712403,Service,Slow counter service,Medium
+15611430,App,App hanging issue,High
+15690007,Charges,Unclear bank deductions,Medium
+15750778,Support,No proper response,High
+15616859,App,OTP not received in app,High
+15571059,Transactions,Transaction history mismatch,Medium
+15811690,Notifications,Delayed alerts,Low
+15577515,Loan,Loan documentation delay,Medium
+15679770,Service,Repeated delay in branch service every visit,High
+15653937,ATM,ATM not dispensing cash but amount debited,High
+15654577,Charges,Unexplained deductions every month,High
+15701602,Support,Customer complaints not resolved for weeks,High
+15687001,Loan,Loan application rejected without reason,Medium
+15761294,Transactions,Transaction history mismatch causing confusion,High
+15666297,Service,Staff not guiding properly for account issues,Medium
+15603135,Notifications,No SMS alert for major transactions,High
+15626008,ATM,ATM frequently out of service in my area,Medium
+15774358,Internet Banking,Frequent login errors in net banking,High
+15570931,Charges,Excess penalty charges for minimum balance,High
+15695339,Service,Very slow response in branch office,Medium
+15755731,Support,Support team disconnecting calls,High
+15651664,Loan,Loan processing taking too long time,High
+15571415,ATM,ATM card blocked without proper reason,High
+15574068,Transactions,Refund not received after failed transaction,High
+15684868,Service,Unprofessional behavior from staff,Medium
+15724223,Charges,Hidden charges deducted multiple times,High
+15745326,Support,No update on complaint status,High
+15593128,Notifications,Delay in transaction alerts,Medium
+15752081,ATM,ATM machine not working for many days,Medium
+15688963,Charges,Charges deducted without proper notification,High
+15721460,Service,Branch overcrowded and poor management,Medium
+15753332,Support,No proper follow-up after complaint,High
+15798424,Loan,Incorrect EMI amount deducted,High
+15692750,Transactions,Multiple debit issues for single payment,High
+15593425,Service,Waiting time too long in branch,Medium
+15795759,ATM,ATM cash not available frequently,Medium
+15812241,Charges,Unclear bank deductions confusing customers,Medium
+15633930,Support,Support team not responding properly,High
+15787255,Service,Repeated poor service experience,High
+15679145,ATM,ATM transaction failed but money deducted,High
+15717770,Charges,Wrong charges applied repeatedly,High
+15597602,Loan,Loan details not updated correctly,Medium
+15671137,Support,Complaint ignored multiple times,High
+15626147,Transactions,Transaction stuck for long duration,High
+15635870,Service,Staff not helpful during issues,Medium
+15635116,Charges,Unexpected deductions from account,High
+15630241,ATM,ATM frequently offline,Medium
+15634950,Internet Banking,Net banking slow and unreliable,Medium
+15635964,Support,No response from customer care,High
+15613699,Service,Service delay causing inconvenience,Medium
+15778154,Loan,Loan approval delayed unnecessarily,High
+15651554,Charges,Repeated penalty charges,High
+15792473,ATM,ATM not accepting card sometimes,Medium
+15646764,Transactions,Incorrect transaction details shown,High
+15571221,Support,Call center waiting time too long,Medium
+15711219,Service,Staff not resolving issues quickly,Medium
+15596013,Charges,Hidden charges affecting customer trust,High
+15606641,Loan,Loan closure process delayed,Medium
+15625426,Charges,Incorrect loan interest charged repeatedly,High
+15766575,Charges,Penalty applied even after maintaining minimum balance,High
+15659931,Account,Account balance mismatch noticed multiple times,High
+15792064,Loan,Wrong EMI amount debited every month,High
+15719508,Charges,Hidden charges applied without prior notice,High
+15605279,Account,Amount deducted without any transaction record,High
+15724858,Loan,Loan tenure details incorrect in records,High
+15704583,Charges,Multiple unauthorized deductions from account,High
+15803202,Account,Sudden balance reduction without explanation,High
+15785367,Loan,Loan closure amount incorrectly calculated,High
+15806570,Charges,Interest rate changed without customer consent,High
+15595592,Account,Incorrect account balance shown in statement,High
+15791700,Loan,Extra EMI debited beyond loan tenure,High
+15736126,Charges,Unjustified service charges applied repeatedly,High
+15743236,Account,Account statement missing transactions,High
+15726490,Loan,Loan repayment not updated properly,High
+15773276,Charges,Duplicate charges applied in same month,High
+15649033,Account,Funds deducted without proper explanation,High
+15657809,Loan,Loan interest overcharged continuously,High
+15739858,Charges,Charges applied without any transaction,High
+15669411,Account,Incorrect balance after deposit,High
+15611669,Charges,Wrong penalty charges deducted,High
+15606613,Loan,Loan amount mismatch in records,High
+15734649,Account,Account credited amount not reflecting,High
+15663650,Charges,Unauthorized deductions every month,High
+15668889,Loan,Loan EMI deducted twice,High
+15612478,Account,Account shows incorrect debit entries,High
+15738907,Charges,Extra hidden charges added repeatedly,High
+15677906,Loan,Loan repayment schedule incorrect,High
+15569249,Account,Account balance fluctuating incorrectly,High
+15651883,Charges,Unexpected deductions without notification,High
+15609998,Account,Account statement errors affecting trust,High
+15719377,Loan,Loan interest calculation wrong,High
+15594133,Charges,Incorrect annual charges applied,High
+15684951,Account,Missing credit transactions in account,High
+15642391,Loan,Loan closure not processed properly,High
+15661275,Charges,Repeated charges without valid reason,High
+15756920,Account,Incorrect balance after transaction,High
+15629299,Loan,Loan EMI debited incorrectly every month,High
+15726103,Charges,Unclear and high bank charges,High
+15607263,Account,Account details not matching records,High
+15614168,Charges,Excessive deductions reducing trust,High
+15793890,Loan,Loan repayment incorrectly recorded,High
+15643630,Account,Account shows wrong transaction details,High
+15763108,Charges,Multiple unexplained charges,High
+15797960,Loan,Loan records inconsistent,High
+15718893,Account,Balance not matching passbook records,High
+15574830,Charges,Unauthorized recurring deductions,High
+15807563,Loan,Loan account showing incorrect balance,High
+15734008,Account,Account data inconsistency issues,High
+15567778,UPI,UPI payment failed multiple times in a day,High
+15637476,App,Mobile app login taking too long,Medium
+15768471,Transactions,Amount debited but transaction not completed,High
+15813412,ATM,ATM card not accepted in multiple machines,Medium
+15634551,Service,Bank staff not giving clear information,Medium
+15694456,Charges,Unexpected annual charges deducted,High
+15679410,Support,Customer care call not connecting,High
+15794273,Notifications,SMS alerts not coming regularly,Medium
+15791780,Internet Banking,Website session getting expired frequently,Medium
+15716609,Loan,EMI amount incorrect in statement,High
+15772423,UPI,UPI app showing server error frequently,High
+15638610,App,App freezing during transactions,High
+15651052,Transactions,Refund not processed after failed transaction,High
+15746203,ATM,ATM cash withdrawal failed but amount deducted,High
+15714485,Service,Long waiting time even for simple queries,Medium
+15601012,Charges,Hidden charges applied without notice,High
+15669414,Support,No follow-up from support team,High
+15582849,Notifications,OTP delay causing transaction failure,High
+15775761,Internet Banking,Login issue during peak hours,Medium
+15613189,Loan,Loan approval delayed without update,Medium
+15632280,UPI,UPI ID not working for payments,High
+15676519,App,App crashing after recent update,High
+15673372,Transactions,Duplicate transaction recorded,High
+15704284,ATM,ATM machine out of service frequently,Medium
+15588944,Service,Poor service experience in branch,Medium
+15721569,Charges,Excess penalty charges applied,High
+15648794,Support,Complaint not resolved even after multiple requests,High
+15799626,Notifications,Email alerts not received,Low
+15601659,Internet Banking,Slow page loading issue,Medium
+15763256,Loan,Loan closure process taking too long,Medium
+15732644,UPI,Payment stuck in processing for long time,High
+15756751,App,App not compatible after phone update,Medium
+15727811,Transactions,Transaction failed during peak hours,Medium
+15769246,ATM,ATM receipt not generated,Low
+15805260,Service,Staff not available during working hours,Medium
+15786463,,,
+15635364,,,
+15789582,,,
