@@ -21,7 +21,6 @@ Model Performance
 - Logistic Regression Accuracy: 81%
 - Random Forest Accuracy: 86%
 - XGBoost Accuracy: 88% (Best Performance)
-
 XGBoost outperforms other models in terms of accuracy, precision, recall, and F1-score, making it the final selected model.
 ---
 Technologies Used
